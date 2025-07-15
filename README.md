@@ -31,6 +31,7 @@ This project demonstrates a complete workflow for building, running, and deployi
 
 <img width="1576" height="887" alt="Screenshot 2025-07-15 112455" src="https://github.com/user-attachments/assets/eb36b0f4-5474-43ef-b190-d00a484df43c" />
 
+
 <img width="1076" height="598" alt="Screenshot 2025-07-15 112406" src="https://github.com/user-attachments/assets/bf072700-e64e-40fd-bc30-e7e246a3ed28" />
 
 **CI/CD Operations:**
