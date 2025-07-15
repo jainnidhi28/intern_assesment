@@ -28,9 +28,13 @@ This project demonstrates a complete workflow for building, running, and deployi
 ## Output:
 
 **Docker file output at port 9000:**
+
 <img width="1576" height="887" alt="Screenshot 2025-07-15 112455" src="https://github.com/user-attachments/assets/eb36b0f4-5474-43ef-b190-d00a484df43c" />
+
 <img width="1076" height="598" alt="Screenshot 2025-07-15 112406" src="https://github.com/user-attachments/assets/bf072700-e64e-40fd-bc30-e7e246a3ed28" />
+
 **CI/CD Operations:**
+
 <img width="1919" height="875" alt="Screenshot 2025-07-15 112907" src="https://github.com/user-attachments/assets/330abcc4-14a7-4c03-8d69-186a1470752e" />
 
 
