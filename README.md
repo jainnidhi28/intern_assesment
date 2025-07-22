@@ -31,6 +31,9 @@ This project demonstrates a complete workflow for building, running, and deployi
 
 <img width="1105" height="445" alt="image" src="https://github.com/user-attachments/assets/ed29f3cc-1337-43b4-b3df-4f50361cb7a9" />
 
+**Started JAVA process and got the response at port 9000**
+
+<img width="1402" height="507" alt="image" src="https://github.com/user-attachments/assets/53c0d062-20b4-4346-8b2f-8003d45553d6" />
 
 **Docker file output at port 9000:**
 
