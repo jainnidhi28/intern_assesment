@@ -27,6 +27,11 @@ This project demonstrates a complete workflow for building, running, and deployi
 
 ## Output:
 
+**Command successfully executed to start the java process**
+
+<img width="1105" height="445" alt="image" src="https://github.com/user-attachments/assets/ed29f3cc-1337-43b4-b3df-4f50361cb7a9" />
+
+
 **Docker file output at port 9000:**
 
 <img width="1576" height="887" alt="Screenshot 2025-07-15 112455" src="https://github.com/user-attachments/assets/eb36b0f4-5474-43ef-b190-d00a484df43c" />
